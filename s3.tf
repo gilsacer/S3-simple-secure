@@ -8,7 +8,7 @@ resource "aws_s3_bucket" "s3-teste-dev-tf-2025" {
     Enviroment  = "Dev"
     ManagedBy   = "Terraform"
     Owner       = "Infra-IAC"
-    CreatedAt   = "2025-07-14"
+    CreatedAt   = "2025-09-03"
   }
 }
 
