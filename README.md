@@ -1,5 +1,10 @@
 # S3-simples
 <!-- BEGIN_TF_DOCS -->
+
+## Diagram
+
+<img src="S3-simple.png" width="500">
+
 ## Requirements
 
 | Name | Version |
@@ -11,7 +16,7 @@
 
 | Name | Version |
 |------|---------|
-| <a name="provider_aws"></a> [aws](#provider\_aws) | 6.3.0 |
+| <a name="provider_aws"></a> [aws](#provider\_aws) | 6.11.0 |
 
 ## Modules
 
@@ -30,9 +35,7 @@ No modules.
 
 ## Inputs
 
-| Name | Description | Type | Default | Required |
-|------|-------------|------|---------|:--------:|
-| <a name="input_environment"></a> [environment](#input\_environment) | The environment for the project | `string` | `"Dev"` | no |
+No inputs.
 
 ## Outputs
 
